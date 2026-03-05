@@ -1,8 +1,8 @@
 {
   "mappings": [
-    "/content/aem-xwalk/:/"
+    "/content/eds-xwalk/:/"
   ],
   "includes": [
-    "/content/aem-xwalk/"
+    "/content/eds-xwalk/"
   ]
 }
